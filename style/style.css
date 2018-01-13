@@ -1,8 +1,11 @@
-.form-control{
-   
+
+.form-horizontal{
+    margin-top: 50px
 }
 
 
-.form-inline{
-    margin-top: 50px
+
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
 }
